@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Lesley Cloud
 
-<!--
-**LesleyCloud1/LesleyCloud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Java applications and backend APIs, with projects spanning e-commerce, transaction tracking, and ordering systems. I'm seeking software engineering opportunities where I can contribute, learn, and build dependable software.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Engineering focus |
+| --- | --- | --- |
+| [EasyShop](https://github.com/LesleyCloud1/EasyShop) | E-commerce backend for products, accounts, carts, and profiles | Java, Spring Boot, MySQL, authentication |
+| [DELI-cious](https://github.com/LesleyCloud1/DELI-cious) | Command-line sandwich ordering application with receipt output | Object modeling, composition, pricing logic, file handling |
+| [Accounting Ledger](https://github.com/LesleyCloud1/AccountingLedger) | Tracks deposits and payments with CSV storage and reporting | Input validation, persistence, date filtering |
+| [Advanced Dealership](https://github.com/LesleyCloud1/AdvancedDealershipProject) | Java vehicle inventory app with a sales-contract calculation model | Inheritance, business rules, file persistence |
+
+## Technologies in my projects
+
+Java · Spring Boot · SQL · MySQL · Maven · JUnit · Git
+
+I also explore Python dashboards and data analysis.
+
+## My learning path
+
+My repositories document my progression from Java fundamentals to object-oriented applications, relational databases, and backend APIs. Course exercises and reference forks support that learning; the selected projects above are the best starting points for exploring my application work.
