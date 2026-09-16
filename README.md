@@ -6,6 +6,7 @@ I build Java applications and backend APIs, with projects spanning e-commerce, t
 
 | Project | What it does | Engineering focus |
 | --- | --- | --- |
+| [Release Harbor](https://github.com/LesleyCloud1/release-harbor) | Deployment control plane with health checks, failure isolation, and rollback | Python, CI/CD, Docker, SQLite, Terraform |
 | [EasyShop](https://github.com/LesleyCloud1/EasyShop) | E-commerce backend for products, accounts, carts, and profiles | Java, Spring Boot, MySQL, authentication |
 | [DELI-cious](https://github.com/LesleyCloud1/DELI-cious) | Command-line sandwich ordering application with receipt output | Object modeling, composition, pricing logic, file handling |
 | [Accounting Ledger](https://github.com/LesleyCloud1/AccountingLedger) | Tracks deposits and payments with CSV storage and reporting | Input validation, persistence, date filtering |
